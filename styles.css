@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+
+}
+
+header {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.header-menu {
+
+    margin: 25px 25px 25px 0;
+    font-size: 24px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header-menu:hover {
+    color: red;
+    font-size: 26px;
+    transition: 0.5s ease-in-out;
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+
+}
+
+div {
+    display: inline-block;
+
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 82px;
+    letter-spacing: 0.596154;
+    color: darkgray;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: darkgray;
+    width: 493px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+
+.div-Reserva {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: aliceblue;
+    background-color: brown;
+    cursor: pointer;
+    margin-left: 125px;
+    border-radius: 6px;
+    width: 124;
+    height: 51px;
+
+
+}
+
+.div-Reserva:hover {
+    font-size: 17px;
+    transition: 0.5s ease-in-out;
+}
+
+ 
