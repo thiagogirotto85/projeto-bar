@@ -1,1 +1,2 @@
-<img src="C:\Users\girot\Downloads\Design sem nome (13).png" alt="foto-desktop"
+<img src="https://github.com/thiagogirotto85/projeto-bar/blob/master/imagem%20desktop.png?raw=true" alt="imagem-desktop"/>
+
